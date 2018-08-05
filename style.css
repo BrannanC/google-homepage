@@ -1,0 +1,51 @@
+.top-toolbar {
+	height: 50px;
+}
+
+.top-toolbar nav {
+	float:right;
+	margin: 7px 21px;
+}
+
+.googleImage {
+  text-align: center;  
+}
+
+button {
+color: rgba(50,50,50,.87);  
+}
+
+.search-button{
+  padding: 15px;
+}
+
+.search {
+  text-align: center;
+  padding: 10px;
+}
+
+.footer {
+  position: fixed;
+	bottom: 0;
+ 	height: 42px;
+ 	width: 100%;
+  text-decoration: none;
+  background: transparent;
+  background-color: rgba(77, 77, 77, .13);
+}
+
+.footer-left {
+  font-size: 16px;
+  float: left;
+  margin: auto;
+}
+
+a {
+  color: rgba(50,50,50,.87);
+}
+
+.footer-right {
+  font-size: 16px;
+  float: right;
+  margin-right: 20px;
+}
